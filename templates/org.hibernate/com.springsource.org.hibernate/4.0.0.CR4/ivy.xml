@@ -23,6 +23,7 @@
 		<dependency org="org.antlr" name="com.springsource.antlr" rev="2.7.7" conf="compile->runtime"/>
 		<dependency org="org.apache.commons" name="com.springsource.org.apache.commons.collections" rev="3.2.1" conf="compile->runtime"/>
 		<dependency org="org.dom4j" name="com.springsource.org.dom4j" rev="1.6.1" conf="compile->runtime"/>
+		<dependency org="javax.xml.stream" name="com.springsource.javax.xml.stream" rev="1.0.1" conf="compile->runtime"/>
 		<dependency org="org.jboss.javassist" name="com.springsource.javassist" rev="3.12.1.GA" conf="compile->runtime"/>
 		<dependency org="com.fasterxml" name="com.springsource.com.fasterxml.classmate" rev="0.5.4" conf="compile->runtime"/>
 		<dependency org="org.hibernate.common" name="com.springsource.org.hibernate.annotations.common" rev="4.0.0.CR2" conf="compile->runtime"/>

@@ -20,7 +20,9 @@
     <dependencies>
 		<dependency org="org.apache.commons" name="com.springsource.org.apache.commons.codec" rev="1.4.0" conf="compile->runtime"/>
 		<dependency org="org.apache.commons" name="com.springsource.org.apache.commons.logging" rev="1.1.1" conf="compile->runtime"/>
-		<dependency org="org.apache.httpcomponents" name="com.springsource.org.apache.httpcomponents.httpcore" rev="4.1" conf="compile->runtime"/>
+		<dependency org="org.apache.httpcomponents" name="com.springsource.org.apache.httpcomponents.httpcore" rev="4.1.1" conf="compile->runtime"/>
+		<dependency org="org.apache.httpcomponents" name="com.springsource.org.apache.httpcomponents.httpmime" rev="4.1.1" conf="compile->runtime"/>
+		<dependency org="org.apache.httpcomponents" name="com.springsource.org.apache.httpcomponents.httpclient-cache" rev="4.1.1" conf="compile->runtime"/>
 	</dependencies>
 
 </ivy-module>

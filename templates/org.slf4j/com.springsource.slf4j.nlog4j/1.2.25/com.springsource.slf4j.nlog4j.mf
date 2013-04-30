@@ -7,3 +7,6 @@ Import-Template:
  javax.jms;version="0",
  javax.mail;version="0",
  javax.mail.internet;version="0"
+Excluded-Exports: 
+ org.apache.log4j.*,
+ org.slf4j.*

@@ -5,4 +5,4 @@ Bundle-ManifestVersion: 2
 Import-Template:
  org.apache.commons.codec.*;version="[1.4.0, 2.0.0)",
  org.apache.commons.logging.*;version="[1.1.1, 2.0.0)",
- org.apache.http.*;version="[4.1, 4.1]"
+ org.apache.http.*;version="[4.1.1, 4.1.1]"
