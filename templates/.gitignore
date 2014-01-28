@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# Except the following files/folders ...
+#
+# (Syntax : !<folder_name>/
+#           or
+#           !<file_name>
+
+!default/
+!local/
+!.gitignore
